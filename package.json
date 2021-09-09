@@ -1,0 +1,26 @@
+{
+  "name": "art4n-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art4n/art4n-gen.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art4n/art4n-gen/issues"
+  },
+  "homepage": "https://github.com/art4n/art4n-gen#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
+    "canvas": "^2.8.0",
+    "chroma-js": "^2.1.2",
+    "mersenne-twister": "^1.1.0"
+  }
+}
